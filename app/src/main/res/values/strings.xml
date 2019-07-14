@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALC 4.0 Challenge</string>
+    <string name="main_activity_label">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track">Track:</string>
+    <string name="profilePicture">Profile Picture</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">Email:</string>
+    <string name="email_address">charlesochonma@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="user_phone_number">08108461437</string>
+    <string name="title_slack_username">Slack Username:</string>
+    <string name="text_slack_username">prinxcharles</string>
+    <string name="profile_name">Charles Ochonma</string>
+    <string name="profile_activity_label">My Profile</string>
+    <string name="about_alc_activity_label">About ALC</string>
+</resources>
